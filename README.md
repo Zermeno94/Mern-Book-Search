@@ -3,7 +3,7 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-ff69b4.svg) 
 
 ## Description
-The application incorprates MERN stack with a React fron end, MongoDB database, and Node.js/Express.Js server and API.
+The application incorprates MERN stack with a React fron end, MongoDB database, and Node.js/Express.Js server and Google Books API.
 
 
 ## Table of Contents 🔎
