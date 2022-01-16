@@ -30,7 +30,7 @@ The application will be invoked by using the following command:
 
 
 ### Usage ⚡
-This application will allow users to save book searches to the back-end. 
+This application will allow users to sign up for an account. Once login is created, the user will be able to search for books and save their book searches to their account.The back-end operates with MERN stack, MongoDB database and Node.js/Express.js. 
 
 ### Demo 🎥
 
@@ -44,6 +44,8 @@ This application will allow users to save book searches to the back-end.
 
 ## Contributers
 * Miranda Zermeno
+* Tutor: Eric Slayer
+* AskBCS Assistants
 
 
 
@@ -51,7 +53,7 @@ This application will allow users to save book searches to the back-end.
 
 * [https://github.com/facebook/create-react-app](https://github.com/facebook/create-react-app)
 * [Deploy with Heroku and MongoDB Atlas](https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-heroku-and-mongodb-atlas)
-* [https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md](#https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+* [https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 
 ## MIT License 📍
