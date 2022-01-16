@@ -34,7 +34,7 @@ This application will allow users to save book searches to the back-end.
 
 ### Demo 🎥
 
-* [Demo Link here) (https://watch.screencastify.com/v/YopbgR4o2mVYbrXgW7HI)
+* [Demo Link here](https://watch.screencastify.com/v/YopbgR4o2mVYbrXgW7HI)
 
 ### GitHub & Heroku Link
 
