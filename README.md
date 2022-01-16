@@ -36,11 +36,11 @@ This application will allow users to save book searches to the back-end.
 
 * [Link to Demo]()
 
-### GitHub ,Heroku & MongoDB Link
+### GitHub & Heroku Link
 
 * [GitHub Link](https://github.com/Zermeno94/Mern-Book-Search)
-* [Heroku Link]()
-* [MongoDB Link]()
+* [Heroku Link](https://mern-book-search-0.herokuapp.com/)
+
 
 ## Contributers
 * Miranda Zermeno
